@@ -47,19 +47,13 @@ The model uses:
 
 ---
 
-## 🎥 Sample Videos
+## 🎥 Sample Video
 
-You can watch the predictions directly here!  
+You can watch the prediction by clicking the image below:
 
-<video width="640" height="360" controls>
-  <source src="videos/Sample1.mp4" type="video/mp4">
-</video>
+[![Sample Video](images/sample1.png)](videos/Sample1.mp4)
 
-<video width="640" height="360" controls>
-  <source src="videos/sample2.mp4" type="video/mp4">
-</video>
-
-> Note: Videos are stored in the `videos/` folder.
+> Note: The image is stored in the `images/` folder, and the video is in the `videos/` folder.
 
 ---
 

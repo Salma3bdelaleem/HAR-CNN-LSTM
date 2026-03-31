@@ -86,7 +86,7 @@ UCF50 Dataset: https://www.kaggle.com/datasets/pypiahmad/realistic-action-recogn
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-
+```
 2️⃣ Run predictions on a new video:
 
 python test_video.py --video_path "videos/sample1.mp4"

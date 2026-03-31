@@ -64,6 +64,7 @@ You can watch the predictions directly here!
 ---
 
 ## 📂 Folder Structure
+```
 project/
 │
 ├─ videos/ # sample test videos
@@ -71,7 +72,7 @@ project/
 ├─ train_model.ipynb # training notebook
 ├─ test_video.ipynb # testing notebook
 └─ README.md
-
+```
 ---
 
 ## 📖 References

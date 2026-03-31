@@ -51,7 +51,7 @@ The model uses:
 
 You can watch the prediction by clicking the image below:
 
-[![Sample Video](images/sample1.png)](videos/Sample1.mp4)
+[![Sample Video](images/image.png)](videos/Sample1.mp4)
 
 > Note: The image is stored in the `images/` folder, and the video is in the `videos/` folder.
 

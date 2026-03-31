@@ -52,7 +52,7 @@ The model uses:
 You can watch the predictions directly here!  
 
 <video width="640" height="360" controls>
-  <source src="videos/sample1.mp4" type="video/mp4">
+  <source src="videos/Sample1.mp4" type="video/mp4">
 </video>
 
 <video width="640" height="360" controls>

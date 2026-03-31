@@ -53,7 +53,7 @@ You can watch the prediction by clicking the image below:
 
 [![Sample Video](images/image.png)](videos/Sample1.mp4)
 
-> Note: The image is stored in the `images/` folder, and the video is in the `videos/` folder.
+> Click on the picture to watch the video
 
 ---
 

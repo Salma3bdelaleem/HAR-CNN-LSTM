@@ -78,7 +78,7 @@ UCF50 Dataset: https://www.kaggle.com/datasets/pypiahmad/realistic-action-recogn
 
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Salma3bdelaleem/HAR-CNN-LSTM.git
 cd <repo-name>
 ```
 2️⃣ Run predictions on a new video:
